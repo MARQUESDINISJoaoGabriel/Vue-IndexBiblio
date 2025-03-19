@@ -1,6 +1,6 @@
 # book-movie-library
 
-This template should help get you started developing with Vue 3 in Vite.
+Un projet simple d'indexation en une collection libraire (fakedb)
 
 ## Recommended IDE Setup
 
