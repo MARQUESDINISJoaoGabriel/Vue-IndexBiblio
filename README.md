@@ -1,6 +1,6 @@
 # book-movie-library
 
-Un projet simple d'indexation en une collection libraire (fakedb)
+Un projet simple d'indexation en une collection libraire (fakedb) en Vue.js (utilisant vuex)
 
 ## Recommended IDE Setup
 
